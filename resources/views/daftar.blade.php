@@ -61,7 +61,7 @@
 </head>
 <body>
     <div class="form-container">
-        <h1 class="fw-bold text-center mb-4">Buat Akun</h1>
+        <h1 class="fw-bold text-center mb-4">Buat Akunn</h1>
         <form method="post" autocomplete="off">
             <div class="row g-3 mb-3">
                 <div class="col-md-6">
